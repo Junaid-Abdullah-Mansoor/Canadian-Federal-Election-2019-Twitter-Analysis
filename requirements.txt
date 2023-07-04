@@ -1,0 +1,50 @@
+The Role of Twitter in the Canadian Federal Election: This project should examine the construction of migration- 
+a distinctly contentious and multi-faceted issue with considerable  implications  for  the  constitution  of  citizenship  and  
+political  community-  on Twitter  during  the  2019  Canadian  Federal  election.  
+Employing  both  quantitative  and qualitative content analysis you should provide an assessment of the role of various actors- 
+government agencies, political parties, journalists, civil society groups, lay citizens, bots, etc.
+- in shaping and steering online discussions of migration and its ostensible effects.  
+
+
+
+Your project code must be submitted in a zipped folder containing the following files 
+
+i) Source code: bug-free and well-documented source code. 
+
+ii) Readme file: should conation instructions on how to install and run the project. 
+
+iii) Data used: should include all raw data used in your project
+
+
+
+Your   project  report  must  be  2000  to  3000  words  and  should  contain  the  following 
+
+topics:  
+
+i) Introduction: In this section, you should include a description of the problem 
+
+and 
+
+explain how you intend to address the problem.  
+
+ii) Data and Model: In this section, you should answer the following questions: 
+
+what data did you use to address the question (describe the dataset and its 
+
+attributes), and how did you do it?  
+
+iii) Results and Analysis: In this section, you should conduct an in-depth analysis 
+
+of your results. Here is where you need to include the figures and tables necessary 
+
+to support your analysis. Any assumptions you make and any parameter setting you 
+
+have used should also be reported.  
+
+iv) Conclusion: In this section, you need to summarize what you have learned 
+
+from your analysis and provide valuable insights. 
+
+v) References: In this section, you should include all references you have used 
+
+in APA format.
